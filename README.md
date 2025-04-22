@@ -30,18 +30,18 @@ This is a C program that accepts marks for **5 subjects**, calculates the **tota
 
 ## 🛠️ How to Compile & Run
 
-###🔹 Step 1: Compile the program
+🔹 Step 1: Compile the program
   gcc C_project.c -o marks_grade
   
-###🔹 Step 2: Run the program
+🔹 Step 2: Run the program
   ./C_project
 
-📁 Files Included
+## 📁 Files Included
 C_project.c → C source code file
 
 ACE_Project_PragyanLahkar.pdf → Final project report (as per college guidelines)
 
-📖 Project Guidelines Followed
+## 📖 Project Guidelines Followed
 ✔️ Function usage for modularity
 
 ✔️ Clean and commented code
@@ -51,8 +51,8 @@ ACE_Project_PragyanLahkar.pdf → Final project report (as per college guideline
 ✔️ Logical flow and proper output formatting
 
 👨‍💻 Author
-Name: Pragyan Lahkar
-Institution: Assam down town University
+Name: Pragyan Lahkar,
+Institution: Assam down town University,
 Date: April 2025
 
 ⭐ If you found this useful or you're reviewing it for college, feel free to give a star to this repo! ⭐
